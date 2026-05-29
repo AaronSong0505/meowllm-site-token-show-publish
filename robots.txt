@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://meowllm.com/sitemap.xml
+Sitemap: https://meowllm.com/sitemap.txt

@@ -1,0 +1,41 @@
+# MeowLLM
+
+MeowLLM is a Chinese-language business website for enterprise AI model API resource consultation and offline business communication.
+
+Primary URL: https://meowllm.com/
+
+## What MeowLLM Helps With
+
+- Enterprise AI model API procurement consultation.
+- Overseas and domestic model API resource communication.
+- Claude, GPT, Gemini, DeepSeek, Qwen, Kimi, Grok, AI Coding, image, video, and multimodal model directions.
+- Enterprise model selection advice based on business scenario, expected usage, concurrency, budget, and contract preferences.
+- Offline commercial discussion, quotation evaluation, invoicing and contract path communication.
+
+## Target Audience
+
+Enterprise customers in China. The site is not for personal accounts, personal subscriptions, top-ups, account resale, online self-service opening, or consumer use.
+
+## High-Intent Queries This Site Answers
+
+- 海外 AI 模型 API 企业采购咨询
+- 企业 AI 模型 API 资源对接
+- Claude API 企业采购
+- Claude Code 企业采购
+- GPT API 企业接入
+- AI Coding 模型团队采购
+- 企业模型选型建议
+- 图像生成模型 API 企业采购
+- 视频生成模型 API 企业采购
+- 多模态模型 API 企业接入
+
+## Contact
+
+- Website: https://meowllm.com/
+- Phone: 16621227737
+- Email: qisongcareer@gmail.com
+- Enterprise WeChat QR code is available on https://meowllm.com/#contact
+
+## Important Boundaries
+
+MeowLLM only collects enterprise consultation intent and supports offline business communication. Actual model availability, pricing, discount, contracting entity, payment, invoice and delivery boundary must be confirmed offline.
